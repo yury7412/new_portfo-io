@@ -219,7 +219,7 @@ img {
 @media screen and (max-width: 978px) {
   .hero {
     padding-top: 0px;
-    margin-top: -60px;
+    margin-top: -80px;
   }
 
   .hero__container {
